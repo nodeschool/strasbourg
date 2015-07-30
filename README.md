@@ -1,7 +1,6 @@
-NodeSchool Paris Website
+NodeSchool Strasbourg Website
 ========================
 
 GitHub pages
 
-http://nodeschool.io/paris
-http://nodeschool.github.io/paris
+http://nodeschool.io/strasbourg
